@@ -1,1 +1,1 @@
-# AI-Hackathon
+# Deep Think AI-Hackathon
